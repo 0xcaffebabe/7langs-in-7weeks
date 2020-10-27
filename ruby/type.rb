@@ -1,0 +1,1 @@
+puts 4 + 'hello' # got a type error
